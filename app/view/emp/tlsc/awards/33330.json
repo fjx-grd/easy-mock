@@ -1,0 +1,15 @@
+{
+  "employeeOverviewDto":{
+    "employeeName": "张思",
+    "employeeCode": "45454545",
+    "organization": "组织",
+    "position": "岗位"
+  },
+  "awardInfoListDto":[
+    {
+      "awardId": "68686",
+      "releasedDate": "2018/02/20",
+      "eventDescription": "收到关注嘿嘿"
+    }
+  ]
+}

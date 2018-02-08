@@ -1,0 +1,15 @@
+[{
+  "employeeName": "张思",
+  "employeeCode": "45454545",
+  "localFullUnitName": "美的部门",
+  "position": "营销大师",
+  "oldOccupationDuty": "旧职掌额",
+  "newOccupationDuty": "新职掌额",
+  "occupationDutys": "可选职掌数组",
+  "recordTime": "异动记录开始时间",
+  "transactionReason": "异动原因",
+  "approver": "决裁区分",
+  "fileId": "附件ID",
+  "fileName": "附件名"
+ }
+]

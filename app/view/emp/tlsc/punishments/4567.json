@@ -1,0 +1,16 @@
+{
+  "employeeOverviewDto":{
+    "employeeName": "张思",
+    "employeeCode": "45454545",
+    "organization": "组织",
+    "position": "岗位"
+  },
+  "punishementInfoDto":
+    {
+      "approver": "决裁区分",
+      "releasedDate": "2018/02/20",
+      "partyType": "当事人",
+      "punishementContent": "惩罚内容",
+      "eventDescription": "事件描述"
+    }
+}
